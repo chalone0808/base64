@@ -4,6 +4,11 @@ Although you can directly use
 ```
 import base64
 ```
+and then use
+```
+b64decode()
+b64encode()
+```
 to encode to base64 or decode from base64. 
 
 But this is my version of base64. 
